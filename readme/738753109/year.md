@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter)
 
-### :octocat: [hyperlinked-index-md-generator](https://github.com/aimanfatima/hyperlinked-index-md-generator)
+### :octocat: [repo-table-of-contents-generator](https://github.com/aimanfatima/repo-table-of-contents-generator)
 ![Image of my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/738753109/large/year.png)
 
 <details>
@@ -26,7 +26,7 @@
 			<code>8</code>
 		</td>
 		<td>
-			<code>137</code>
+			<code>199</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/14 3:57 AM UTC</i></small>
+<small><i>Last updated on 2024/1/14 6:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter/blob/master/svg/738753109/badge.svg)](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/738753109/week.md)
 ```
 ### Header
-# hyperlinked-index-md-generator [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/738753109/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/738753109/year.md)
+# repo-table-of-contents-generator [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/738753109/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/738753109/year.md)
 ```readme
-# hyperlinked-index-md-generator [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/738753109/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/738753109/year.md)
+# repo-table-of-contents-generator [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/738753109/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/738753109/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
