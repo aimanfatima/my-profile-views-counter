@@ -1,6 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter)
 
-### :octocat: [final-project](https://github.com/aimanfatima/final-project)
+### :octocat: [read-smart](https://github.com/aimanfatima/read-smart)
 ![Image of my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/258710053/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>33</code>
+			<code>45</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/15 1:05 AM UTC</i></small>
+<small><i>Last updated on 2024/1/15 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/aimanfatima/my-profile-views-counter/blob/master/svg/258710053/badge.svg)](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/258710053/week.md)
 ```
 ### Header
-# final-project [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/258710053/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/258710053/year.md)
+# read-smart [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/258710053/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/258710053/year.md)
 ```readme
-# final-project [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/258710053/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/258710053/year.md)
+# read-smart [<img alt="Image of my-profile-views-counter" src="https://github.com/aimanfatima/my-profile-views-counter/blob/master/graph/258710053/small/year.png" height="20">](https://github.com/aimanfatima/my-profile-views-counter/blob/master/readme/258710053/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
